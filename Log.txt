@@ -1,4 +1,5 @@
 DDS1_Lib
 
 13.07.2024 - TL494 SOIC16
-			 IR4427 SOIC8 added to library	
+			 IR4427 SOIC8 added to library
+		   - Debug
