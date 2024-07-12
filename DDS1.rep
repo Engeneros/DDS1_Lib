@@ -1,0 +1,86 @@
+CSV text has been written to file : DDS1.csv
+
+Library Component Count : 79
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+4N35                Optotransistor
+74HC00D             4 лог. элемента 2И-НЕ
+74HC02D             4 лог. элемента 2ИЛИ-НЕ
+74HC14D             6 триггеров Шмита с инверсией.
+74HC164D            Сдвиговый регистр. Посл. вх. 8 разр. выход.
+74HC74D             2 D триггера с RS  вхлдами
+817B                Optotransistor
+AD8676              Dual Rail-to-Rail Output Op Amp
+AD9958BCPZ          2х канальный   500 MSpS  DDS
+AD9958BCPZ_1        Jitter Attenuator/Clock Multiplier with Ultra-Low Jitter
+ADA4898             Op amp
+ADCMP553            Comparator PECL/LVPECL
+ADP7118             Positive LDO Linear stabilizer
+ADP7182             Negative LDO Linear stabilizer
+ADUM5028            Isolateted DC DC 5V->5V or 3V3 60mA
+AM15E-              Negative LDO Linear stabilizer
+AO3400A             NMOS
+AO3401A             PMOS
+B82464G4            SMD Дроссель
+BC846               NPN транзистор
+BLM21               SMD Ferrite bead 0805
+BNC_A               BNC розетка
+BZV55C              Чип cтабилитрон
+C0603               Чип конденсатор 0603
+C0805               Чип конденсатор 0805
+C1206               Чип конденсатор 0805
+CAP_POL_5x10        Конденсатор полярный d10 p5мм
+CAP_POL_7_5x16      Конденсатор полярный d16 p7.5мм
+CB3LV               Clock generator
+Connector D-sub 9 FemaleConnector D-sub 9 Female
+Connector D-sub 9 MaleConnector D-sub 9 Male
+DCP010xxyyD         DC/DC xxV to isolated +-yyV
+DCP02xxyyU          DC/DC xxV to isolated  yyV
+D_SUB_9M            Вилка  DSUB 9 угловая
+IDC24MS             Вилка  PLD 28/2.54
+IDC26MS             Вилка  PLD 28/2.54
+INDM4532X340N       SMD Дроссель
+IND_BOURNS_PM5022S  SMD Дроссель
+IND_PANASONIC_PCC-F126F(N6)SMD Дроссель
+IR4427              Double low side non inverting MOSFET driver
+ISO7240M            Двунаправленный буфер
+Jumper_3            SPDT джампер
+KX-3HT              Резонатор кварцевый
+LED0603             Чип светодиод 0603
+LEMO_EPG.0B.302.HLN LEMO дифференциальный, угдовой
+LM317               Positive LDO Linear stabilizer
+LM337               Negative LDO Linear stabilizer
+LM6171              High Speed Low Power Low Distortion Voltage Feedback Amplifier
+LT5400              4 прецизионных резистора
+LTC66557-2V5        Reference, 2V5
+LTC6655B-5          Reference, 5 V
+LTC6957-2           Bufer CMOS in to 2xLVDS out
+MAX616x             Voltage Reference
+MJD2955             PNP транзистор
+MJD3055             NPN транзистор
+PBD10               Розетка 2 ряда PBD 10/2.54
+PBD16               Розетка 2 ряда PBD 16/2.54
+PBD24               Розетка  PBD 24/2.54
+PBD40               Розетка 2 ряд  PBS 40/2.54
+PBD40_1             Розетка 2 ряд  PBS 40/2.54
+PBS40               Розетка 1 ряд  PBS 40/2.54
+PBT114              Розетка 2.54мм 3ряда 114 ног
+PCI_PMC             PCI Mezzanine Connector; IEEE 1386 Mezzanine board
+PCI_PMC_M           PCI Mezzanine Connector; IEEE 1386 MainBoard
+PLD28               Вилка  PLD 28/2.54
+PLS1                Штырь PLS1
+PLS2                PLS2
+PLS3                PLS3
+R0603               Чип резистор 0603
+R0805               Чип резистор 0805
+R1206               Чип резистор 1206
+RB521S-30           Чип Шоттки диод
+REG104GA            Positive LDO Linear stabilizer
+S2-29               Чип резистор 1206
+SN74AVC4T774        Двунаправленный буфер
+TC1-1T+             RF Transformer; 50?; 1.5 to 500 MHz; Impedance Ratio=1
+TL494               PWM Controller
+TPS3808             Supervisory Circuit. Low-Quiescent-Current, Programmable-Delay
+WF4                 Вилка  WF4
