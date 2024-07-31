@@ -7,5 +7,11 @@ DDS1_Lib
 20.07.2024 - HV fast diode SF18 added
 25.07.2024 - 1468362C muRate bobbin type inductor added
 27.07.2024 - CF-1/4W THD 250mW resistor added
-29.07.2024 - LT3092 200mA 2-terminal programmable current source added
+29.07.2024 - LT3092 SOT223 200mA 2-terminal programmable current source added
+31.07.2024 - 74HC08D SOIC14 4x2AND high speed CMOS logic added
+		   - tl431 added
+		   - CF-1/4W corrected
+		   
+
+
  
