@@ -11,6 +11,9 @@ DDS1_Lib
 31.07.2024 - 74HC08D SOIC14 4x2AND high speed CMOS logic added
 		   - tl431 added
 		   - CF-1/4W corrected
+01.08.2024 - SN74LV4T125PWR TSSOP14 Quadruple Buffer Translator GATE With 3-State
+Output CMOS Logic Level Shifter added
+
 		   
 
 
