@@ -13,6 +13,8 @@ DDS1_Lib
 		   - CF-1/4W corrected
 01.08.2024 - SN74LV4T125PWR TSSOP14 Quadruple Buffer Translator GATE With 3-State
 Output CMOS Logic Level Shifter added
+02.08.2024 - CBB81, CT81, CK45-B3AD HV THD 15, 22.5, 27.5mm capacitors added
+
 
 		   
 
