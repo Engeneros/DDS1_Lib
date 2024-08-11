@@ -16,6 +16,8 @@ Output CMOS Logic Level Shifter added
 02.08.2024 - CBB81, CT81, CK45-B3AD HV THD 15, 22.5, 27.5mm capacitors added
 07.08.2024 - 2SK1358 & FQP6N90C fixed
 		19:48  - DCP020507 fixed
+12.08.2024 - Connector WF6HV added
+
 
 
 		   
