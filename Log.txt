@@ -17,6 +17,8 @@ Output CMOS Logic Level Shifter added
 07.08.2024 - 2SK1358 & FQP6N90C fixed
 		19:48  - DCP020507 fixed
 12.08.2024 - Connector WF6HV added
+16.08.2024 - StepDown DCDC LMZ12003 added
+
 
 
 
