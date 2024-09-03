@@ -18,6 +18,8 @@ Output CMOS Logic Level Shifter added
 		19:48  - DCP020507 fixed
 12.08.2024 - Connector WF6HV added
 16.08.2024 - StepDown DCDC LMZ12003 added
+02.09.2024 - Fixed WF4, WF8, WF6HV. Holl size from 1m2m to 1mm. First pad WF4 from round to rectangle
+
 
 
 
