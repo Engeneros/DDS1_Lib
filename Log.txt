@@ -22,6 +22,7 @@ Output CMOS Logic Level Shifter added
 14.10.2024 - Fixed footPrint for Aimtec Isolated Dual DCDC. 
 21.02.2025 - RQ73C2A added
 14.03.2025 - HE244, Pt1000 PCBconn20 added
+15.09.2025 - Hall Field Meter prj  begin LTC3042 (currens src w.100uA ref current) & ADS1234 (SigmaDeltaTheBest)
 
 
 
