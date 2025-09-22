@@ -25,6 +25,9 @@ Output CMOS Logic Level Shifter added
 15.09.2025 - Hall Field Meter prj  begin LTC3042 (currens src w.100uA ref current) & ADS1234 (SigmaDeltaTheBest)
 17.09.2025 - Some fixes to LTC6655 &  ADP7118
 18.09.2025 - LT5400-7 & OPA4522-1
+22.09.2025 - ADG1609 TSSOP16-0.65
+			- STM32F756ZGT6 LQFP144-0.50
+			- LA8742A-CZ	QFN25-0.50
 
 
 
