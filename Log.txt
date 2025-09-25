@@ -31,6 +31,8 @@ Output CMOS Logic Level Shifter added
 23.09.2025  - H5007NL
 			- IP4220CZ6
 			- Molex438600010
+25.09.2025	- CAY16 - resistor network
+			- AA-25.000MALE-T Crystal resonator
 			
 
 
