@@ -33,6 +33,7 @@ Output CMOS Logic Level Shifter added
 			- Molex438600010
 25.09.2025	- CAY16 - resistor network
 			- AA-25.000MALE-T Crystal resonator
+26.09.25	- STM32F756ZGT The controller pins connected to Ethernet are drawn in a separate block.
 			
 
 
