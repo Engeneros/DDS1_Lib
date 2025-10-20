@@ -35,6 +35,7 @@ Output CMOS Logic Level Shifter added
 			- AA-25.000MALE-T Crystal resonator
 26.09.25	- STM32F756ZGT - The controller pins connected to Ethernet are drawn in a separate block.
 08.10.25    -W02G - Diode Bridge Rectifier
+20.10.25    -LMZ1203 change scematic, incrise radiator, add vias to radiator 
 			
 
 
