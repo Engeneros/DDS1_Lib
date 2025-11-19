@@ -37,6 +37,7 @@ Output CMOS Logic Level Shifter added
 08.10.25    -W02G - Diode Bridge Rectifier
 20.10.25    -LMZ1203 correction sch drawing, incrise radiator, add vias to radiator 
 			-IP4220CZ6 correction sch drawing
+19.11.25	-G6J-2P-Y 12VDC,15EDGRC-3.5-04P-14, DRB-15FA (DS1037-15F), MYBSP0122BABFT+CB added
 
 
 
